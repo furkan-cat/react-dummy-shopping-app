@@ -27,12 +27,12 @@ Dummy shopping app with shopping API.
 * Route
 * Redux
 * Multi Reducer Management
+* Semantic UI
 
 ### Built With
 * [React](https://www.javascript.com/)
 * [HTML](https://html.com/)
 * [CSS](https://css.com/)
-* [BootStrap](https://getbootstrap.com/)
 
 <!-- CONTACT -->
 ## Contact
